@@ -1,3 +1,3 @@
 ECHO is on.
 Git Rocks
-Git Sucks
+git is awesome
